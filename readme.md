@@ -8,7 +8,7 @@ The project dependencies are listed in the `requirements.txt` file. To install t
 
 ```bash
 pip install -r requirements.txt
-
+````
 # Project Components
 
 ## Audio Agent
@@ -66,6 +66,6 @@ The `orchestrator.py` script uses the **"llama-3.2-90b-vision-preview"** model t
    Ensure all required dependencies are installed by running:  
    ```bash
    pip install -r requirements.txt
-
+   ```
 ## License
 This project is licensed under the MIT License. 
